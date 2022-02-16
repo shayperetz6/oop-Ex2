@@ -5,13 +5,6 @@ in this project we will build a Graph object to run algorithms on
 and creating a GUI to intract with the Graph , adding/deleting nodes and edges
 or running some algorithms
 
-## Authors
-
-- [@oa1321](https://www.github.com/oa1321) 
-- [@shayperetz6](https://github.com/shayperetz6) 
-- 
-
-
 ## The Problem Space
 we have a few problems to solve in our case, most of the problems are conneted to the
 algorithms part(what to use and how to code them) and some of them are related to the objects
